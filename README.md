@@ -2,7 +2,7 @@
 Simple clone of the classic hangman game
 
 <img width="328" alt="Hangman" src="https://github.com/user-attachments/assets/bf5f50d2-c565-489b-baec-69aed81d8f97" />
-<img src="https://github.com/user-attachments/assets/39490e2b-e514-40a2-831f-eafbf05b83eb" width ="328" height="240"/>
+<img src="https://github.com/user-attachments/assets/39490e2b-e514-40a2-831f-eafbf05b83eb" width ="328" height="245"/>
 
 
 This project includes two versions of the classic game:
