@@ -10,3 +10,13 @@ This project includes two versions of the classic game:
 - **hangman_advanced.py** — Advanced version that loads words from an external file (`wordlist.py`).
 
 Both versions are playable directly from your terminal.
+## Installation
+
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/nickagesa/Hangman.git
+   cd Hangman
+
+3. **Run the Game**:
+   ```sh
+   python hangman_advanced.py
